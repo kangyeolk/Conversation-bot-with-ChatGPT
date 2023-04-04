@@ -18,6 +18,5 @@ gradio app.py
 
 
 ## Acknowledgement
-* [Build an Audio Bot with ChatGPT and Whisper API using Python]
-(https://www.youtube.com/watch?v=Tc3R9REpuXs&t=547s)
+- [Build an Audio Bot with ChatGPT and Whisper API using Python](https://www.youtube.com/watch?v=Tc3R9REpuXs&t=547s)
 
